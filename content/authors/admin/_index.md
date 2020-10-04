@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Zhaoxiang Zhang is a student of Detecting, Guidance and Control Technology in Northwestern Polytechnical University. My research interests include computer vision, machine learnine, robotics and control technology.
+Zhaoxiang Zhang is a student of Detecting, Guidance and Control Technology in Northwestern Polytechnical University. His research interests include computer vision, machine learnine, robotics and control technology.
