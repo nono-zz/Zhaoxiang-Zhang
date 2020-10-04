@@ -24,6 +24,7 @@ interests:
 - Artificial Intelligence
 - Computer Vision
 - Robotics
+- Control Technology
 
 education:
   courses:
